@@ -19,10 +19,13 @@ Klik Accept
 ![WhatsApp Image 2024-09-11 at 05 48 39](https://github.com/user-attachments/assets/1f6146ba-fa64-4405-b62c-b8525dbd3604)
 Klik Accept
 ![WhatsApp Image 2024-09-11 at 05 48 40](https://github.com/user-attachments/assets/7a27b868-a69b-4c94-afa6-2882c197c474)
+
 Klik RUN
 ![WhatsApp Image 2024-09-11 at 05 48 40 (1)](https://github.com/user-attachments/assets/d1894bdb-5207-4464-bc83-6da2fe1f8ad7)
+
 Klik Next
 ![WhatsApp Image 2024-09-11 at 05 48 40 (2)](https://github.com/user-attachments/assets/caa6f7d2-4a07-4cd6-86e1-e8becafde89e)
+
 Pilih "I accept the agreement" kemudian Klik Next
 ![WhatsApp Image 2024-09-11 at 05 48 43](https://github.com/user-attachments/assets/30037225-4f83-4e64-9ef0-37d7485b280b)
 Klik Next
