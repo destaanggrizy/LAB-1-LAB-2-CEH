@@ -28,10 +28,13 @@ Klik Next
 
 Pilih "I accept the agreement" kemudian Klik Next
 ![WhatsApp Image 2024-09-11 at 05 48 43](https://github.com/user-attachments/assets/30037225-4f83-4e64-9ef0-37d7485b280b)
+
 Klik Next
 ![WhatsApp Image 2024-09-11 at 05 53 08](https://github.com/user-attachments/assets/26647584-1d76-4096-81c6-d2774cf76547)
+
 Klik Next
 ![WhatsApp Image 2024-09-11 at 05 53 11](https://github.com/user-attachments/assets/1bc4afdf-2bbf-4147-bdd7-f77dcf4d0884)
+
 Pilih "Create a desktop icon" kemudian Klik Next
 ![WhatsApp Image 2024-09-11 at 05 53 15](https://github.com/user-attachments/assets/142ee898-83b8-41fc-a5b9-7c62383f1d34)
 
@@ -39,7 +42,8 @@ Klik Install
 ![WhatsApp Image 2024-09-11 at 05 53 18](https://github.com/user-attachments/assets/006a0077-3c95-4224-a06d-5889bc9415b0)
 
 Finish
-![WhatsApp Image 2024-09-11 at 05 53 23](https://github.com/user-attachments/assets/8100ea01-5dab-4cec-9572-3b163f75a22f)
+![image](https://github.com/user-attachments/assets/cd4e9b52-8410-4fb0-8096-deba6335e59c)
+
 
 
 # Langkah-Langkah Menggunakan HashCalc
